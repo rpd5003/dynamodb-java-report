@@ -1,0 +1,146 @@
+id (S),alphabeticCurrencyCode (S),inventoryItemKey (S),name (S),timeZone (S)
+0b0d5942-990c-4735-a040-314d52865f36,USD,SKU,Business 2,America/New_York
+548b5e69-168a-4c52-957e-2b051def5fc4,USD,SKU,c256219@trbvn.com,America/New_York
+a769c495-e67c-46f8-a263-dfcba31ff423,USD,SKU,Testing Modifier Creation 3,America/New_York
+6b30c39f-2c7f-422c-8dbb-39072117e94c,USD,SKU,Wilkin's Hyundai and Subarus,America/Dawson_Creek
+17efbfd3-76e6-4147-9113-7ad725136e55,USD,SKU,Cutting Edge Products,America/New_York
+028e7ac9-a603-4084-b409-0f89d42fb6df,USD,SKU,Redesign Test Business,America/New_York
+6253af34-b91c-48b0-88a9-cf551c81a32f,USD,SKU,SS Activewear,America/New_York
+103ecaaa-771a-41e7-b348-3cae90f0ed05,USD,SKU,GreyEagleTraders,America/New_York
+46a44362-fc7b-4e49-81df-f7c57a32d603,USD,SKU,Test 4,America/New_York
+4015ab94-cdea-48a2-bf55-58476b3d913a,USD,SKU,Emerson Test Business,America/New_York
+5bddab8a-b01a-4854-bfe7-7e2ef120dd41,USD,SKU,10minutemailaccountbusiness,America/New_York
+28234c23-4f68-424c-81de-eddde40acdc1,USD,SKU,spearman security,America/New_York
+995c383b-9df3-4cf3-987b-782c8bf497f7,USD,SKU,Same Same,America/New_York
+560c53c4-5cf7-4e92-b5fa-36c4d5eb0a53,USD,SKU,Endless Supplies Test Business,America/New_York
+94c6671a-6311-4591-8b4a-7feb4634100b,USD,SKU,Sugar Lips,America/New_York
+aa6e77a8-c41c-4337-ba5d-5baa2dd3f2a3,USD,SKU,Testing Modifier Creation 2,America/New_York
+ccedc73a-a58c-40c2-9be1-7db97e7a34a1,USD,SKU,test,America/New_York
+444c2ee2-9ba4-417b-9a97-8ac8d9cdafdf,USD,SKU,Pet Signature,America/New_York
+c7bd5de4-37fc-4864-a65c-dff77fccff97,USD,SKU,Huns,America/New_York
+22203865-e358-42a6-8db2-66513668872b,USD,SKU,Albany Distribution,America/New_York
+b5525754-bb1b-42d9-a5b5-d6d0e936077c,USD,SKU,Whatcha buying?,America/New_York
+a01ae872-319f-4e49-b85c-1e7afe14b1c1,USD,SKU,Petra Test Business,America/New_York
+73082370-75f2-4e31-81c1-2ee0fb73c613,USD,SKU,Eldorado Test Business,America/New_York
+dbe9d34d-273c-44e1-9c07-646c1aa285a0,USD,SKU,c1634896@trbvn.com,America/New_York
+4aaee891-ab0f-4b1c-8d81-eaa44aa71644,USD,SKU,Cowboys and Indians,America/New_York
+1d8e119b-155e-478f-9615-84ad3a997eea,USD,SKU,Hurdy Gurdy Man,America/New_York
+7a5b99a9-11ef-4f65-ac44-4d5ae74e0bd8,USD,SKU,Kroll,America/New_York
+9f5c18b9-fef3-4d75-9dab-ea9a15fb3940,USD,SKU,Testing channels,America/New_York
+3d1a1c3e-505e-44d8-b88d-1c83c2afc0ed,AUD,SKU,Diaxes Test Business,Pacific/Auckland
+6092bec1-b71d-488b-a9ef-fd18a79e5c90,USD,SKU,Drop For You,America/New_York
+d711fd36-0d86-4f4a-813a-23f328029721,USD,SKU,Farris Bros,America/New_York
+782ada43-e20b-4eff-8fd4-7155a2c36174,USD,SKU,c1280173@mvrht.com,America/New_York
+4545d9c7-fd00-4479-bc79-b68b4142828a,CAD,SKU,Silverts,America/New_York
+94414666-68bd-46ff-95e9-a3ff98ca15fc,EUR,SKU,OPSH Test Business,Europe/London
+bbf980dc-1c51-42cb-8d6c-42a4cd239046,USD,SKU,Test Europa Product Service,America/New_York
+8f34e86b-8686-4b9c-815b-8bbb0c748339,USD,SKU,Testing Modifier Creation 4,America/New_York
+2a4aca2d-2e5a-4b14-915b-1fd9d764fc0f,USD,SKU,Dropship Direct Prepend Test,America/New_York
+23c50013-e230-4773-bc3a-1ae741abe719,USD,SKU,Testing Modifier Creation,America/New_York
+7c084758-72ce-4ee2-9c15-f7481ca45c86,USD,SKU,test1234,America/New_York
+5fbe241b-c5d9-4031-b1f2-4ae5fb95f1ab,USD,SKU,No Subscription Business,America/New_York
+d4b801f5-7584-48e3-b64d-13ffeb58f031,USD,SKU,c372411@trbvn.com,America/New_York
+0b5c2b74-c24b-4baf-b4d1-2b1c29815b0c,USD,SKU,Sam Sepiol Mr Robot,America/New_York
+ada13b25-a459-4f30-9feb-92ff4f32722c,USD,SKU,c375119@trbvn.com,America/New_York
+84f1dd3e-5005-45df-b058-13ff6998dff3,USD,SKU,Orgill,America/New_York
+228a7cc0-d734-4a18-a80d-cb8174aa569d,USD,UPC,OtrevaTEST1,America/New_York
+9de652d5-a15c-4165-818f-87971a7c43c8,USD,SKU,FragranceNet,America/New_York
+c76136c1-6857-4f7e-aac3-8b36cac6adc5,USD,SKU,Mike Test Business Flow,America/New_York
+c7b12561-a3f9-4526-892c-02eeb9c88256,USD,SKU,Campbell's Soop,America/New_York
+30c7ef45-d96a-47be-b997-7fc515ceade5,USD,SKU,TestBuisiness,America/New_York
+ab4b282c-d633-4d6b-9464-862f83668ef5,USD,SKU,Jboutman Test Business,America/New_York
+ea4ae800-9aee-40be-a7a9-3fd30aae1096,USD,SKU,c1280397@mvrht.com,America/New_York
+8586b275-61f3-4bd8-98fd-f58170f644d8,USD,SKU,Smart Etailing,America/New_York
+58816769-4338-4400-bea9-7b2535925b6f,USD,SKU,Test 3,America/New_York
+140548d3-30bd-4121-bd54-d59a10b84ad2,USD,SKU,Kroll Complete SKU,America/New_York
+cb5e8a9d-e57c-42b9-8a44-d6124956bb68,JPY,UPC,Neil's Shop in RJ's Account,America/Indiana/Indianapolis
+eef626ae-5c7d-49dc-b093-9020a514cf7c,USD,SKU,h14173@trbvo.com,America/New_York
+a56ab727-1357-4885-80bf-8100b5c5e3c1,USD,SKU,Adult Drop Shipper,America/New_York
+b39405ac-e669-49c0-b01c-2c79c8186df3,USD,SKU,Mike's Biznassss,America/New_York
+3cd5af10-6a3a-46a8-9e8e-db7ffdf155e3,EUR,SKU,AX Paris,America/New_York
+da116a5b-ebfe-4af0-9921-fbea663d9edd,USD,SKU,Fashion Dropshippers,America/New_York
+78f82a64-6bd8-40b9-a3ed-758165cf1cfb,USD,SKU,Test Mike,America/New_York
+f22ea67f-fc20-4bad-b3e3-2f30ef595a4c,USD,SKU,CA-2508,America/New_York
+d4f99428-365f-4395-bb17-79078c37e7f9,USD,SKU,CA-2280,America/New_York
+199f5618-4823-407a-8c4c-435fc779d3b4,USD,SKU,ProBikeSupply2,America/New_York
+0ea98dc8-367c-4288-888a-7872e105dc52,USD,SKU,Hum Dinger Business of the Americas,America/New_York
+f067bea3-fdca-4754-a60d-9eab5f9e5aaf,USD,SKU,Eldorado Test Business,America/New_York
+75811588-a409-4c5b-9ac9-3b7face6f7f4,USD,SKU,enso,America/New_York
+e5341a29-74c0-4c63-b1c6-f5501919a1aa,USD,SKU,Jason's Gigantic Guns,America/New_York
+f4fe2924-ab94-44d5-ad2a-6997696a20c7,USD,SKU,Serayah,America/New_York
+70418e7b-f8fa-4610-9557-f1b3629a5d0c,USD,SKU,c1635462@trbvn.com,America/New_York
+291bd6e7-63ef-4765-b2ae-4b1099c05d54,USD,SKU,test,America/New_York
+5a3d6e10-5b17-4c73-9692-c0acd5b9a5d5,USD,SKU,Testing Europa,America/New_York
+7f56d419-4c6c-4c47-9710-a65d254878eb,USD,SKU,Jason's Gigantic Guns Tester Import,America/New_York
+579a0dd0-7b44-4866-aae6-91b2e1c0e702,USD,SKU,Neil's UPC Business,America/New_York
+edeafd44-d977-4861-bebe-4ab0da0f424f,USD,SKU,jays house of nuts,America/New_York
+2a9aca89-e51e-439b-b052-39c6e78548aa,USD,SKU,D and H,America/New_York
+60f77b35-ac2e-4008-b11d-57dbd790aae1,USD,UPC,Where is the reference,America/New_York
+275fc5ce-7774-426e-a309-6f7b0b37a8aa,USD,SKU,fdsfdf,America/Fort_Wayne
+e1228839-bf3b-42f8-abcb-f27e162e1921,USD,SKU,China Vasion,America/New_York
+890daaf6-7fdc-40db-88f2-c36006518ad1,USD,SKU,c1635980@trbvn.com,America/New_York
+d245784f-8894-408a-9f9e-6917ae0f372e,USD,SKU,One Business Account,America/New_York
+0c57bdf3-2811-4e19-be9b-8032d1e7b395,USD,SKU,c251713@trbvn.com,America/New_York
+7c76dcfa-2dac-4f6e-8430-7e5b69982706,USD,SKU,Pro Bike Supply Test Business,America/Los_Angeles
+04bd0ee7-69cd-4b77-98e6-cb46d7e31fe4,USD,SKU,AcuSport Test Business,America/New_York
+dbe7abb7-7d2d-4611-a294-c8ddd094a744,USD,SKU,Over 9000 Energy Level Supplements,America/New_York
+c7fa9caa-fbb2-4003-9cc2-2f8253259d44,USD,UPC,Hubba bubba double bubble,America/New_York
+ab2b3201-f783-4449-b809-f5010ac434ce,USD,SKU,Kellorgs,America/New_York
+63c625b3-49f8-4f94-acf5-a7a9bb07b440,USD,UPC,Another Test USD/UPC Business,America/New_York
+3cea1990-91a2-41e4-90a7-d3fb56517c9d,USD,SKU,Europa Product Update Test Business,America/New_York
+0a4a654f-0164-486b-b3b0-6e2f424a6b47,USD,SKU,Chris' Store,EST
+ac5b512d-81fa-4aef-8f29-c571e26d394a,USD,SKU,Essendant Test Business,America/New_York
+697c4abf-f690-4553-835f-440bd261b846,USD,SKU,Test flow 2,America/New_York
+5e516e8f-66ec-4d9b-905a-d9f34de31cdd,USD,SKU,Sample Business,America/New_York
+5c7a9a16-4a7d-448a-8f7c-38260034075f,USD,SKU,c356970@trbvn.com,America/New_York
+a91b7909-b55a-4085-a97a-c91dc1fe67da,USD,SKU,GunPartsUsa Test Business,America/New_York
+35a41689-042f-4261-9868-9d0efa5f97e9,USD,SKU,You're My Flame,America/New_York
+15907988-0268-4cba-9402-f2d39c12ee63,USD,SKU,File Mapping Business,America/New_York
+79a6f654-c867-41ae-af55-91c57e65d528,USD,SKU,Green Supply Test,America/New_York
+940f4dd5-a040-4db2-8dba-4b40618e3ba4,USD,SKU,Europa FLAPPER,America/New_York
+8ef882d0-11d0-4eeb-bf64-0839f2043992,USD,SKU,Silverts Test EN - USD,America/New_York
+0b588a08-b42c-418e-b067-dd5fa1180633,USD,SKU,c373147@trbvn.com,America/New_York
+c23d9a33-d6dd-4407-b9b1-22aec3cf70f0,USD,SKU,Staging File Mapping Review,America/New_York
+73745b51-d319-44a5-bbda-a45cfb825c32,USD,SKU,Hurdy Gurdy,America/New_York
+493cbe24-6a07-4690-b82a-4a25be514b24,USD,SKU,Test Chargify,America/New_York
+daab3024-6f0a-4f2c-854e-6f61c69b85fc,USD,SKU,Neil's Test Business #1,America/New_York
+5022ff3b-34ba-4897-8a2c-c5558ed9b54c,USD,SKU,"Ten Minute Mail, Ten Minute Business",America/New_York
+c233611a-7d75-4efa-94a7-4fb5076acef3,USD,SKU,Test Welcome 2,America/New_York
+40226f09-f8f7-43fd-aad6-c8f56194e436,USD,SKU,Mobile Line,America/New_York
+92254084-0efa-4908-9c9f-853d46d0a4dd,USD,SKU,Test Chargify 2,America/New_York
+89eba614-89e7-44c3-8437-199e5192981c,USD,SKU,c356614@trbvn.com,America/New_York
+779d6fe8-db03-45aa-b584-936314f8425e,JPY,UPC,TestTestTest,America/New_York
+417c6d3a-0bb4-43f7-ace7-c48c7ef3327d,USD,SKU,Kroll joined by Product_SKU,America/New_York
+4c187bfc-d538-4763-83a6-569b68119d63,USD,SKU,Prepared Generic Data Feeds,America/New_York
+42f531d7-0607-4886-897d-c577a33eb47a,USD,SKU,Same Same But Different,America/New_York
+91171a24-ffe9-4568-adbe-9e0d4c9ceb57,USD,SKU,But Different,America/New_York
+88525629-de5f-438e-9470-6b1cdea1e9bb,USD,SKU,c355017@trbvn.com,America/New_York
+7000c1ed-d9ea-4cb0-869d-25fab115065f,USD,SKU,c1635226@trbvn.com,America/New_York
+fbf3207f-1cc5-460d-be71-8194e8829a0d,USD,SKU,Testing UPC And Sku,America/New_York
+e4d8a1d1-0057-46a4-9b20-90461cabaae8,USD,SKU,TestBusiness789,America/New_York
+2794a9de-c3c9-4cd6-abde-ebb8204a51b4,EUR,SKU,LaSula,America/New_York
+bff40446-6061-4496-b56a-617fba995d8f,USD,SKU,TESTING EUROPA 2,America/New_York
+879b70a7-e841-41b9-a463-b06f04a78efe,USD,SKU,Fashion Dropshippers,America/New_York
+ca716fdb-33d7-4164-b5bf-ecb52b39321d,USD,SKU,LiveCopper,America/New_York
+5fa4753e-2f93-46db-a570-cb32fddc3369,USD,SKU,Matterhorn EN,America/New_York
+2eb23a4d-71f3-49c3-a66e-3fdadb516219,USD,SKU,Testing Modifier Creation 5,America/New_York
+875d3491-0ca7-468c-b771-0d21db196138,USD,SKU,Mike Test Business 2,America/New_York
+0a8d3b28-8ed7-47c3-8c94-6cf08ca439a9,USD,SKU,Nyah Nyah Nyah Nyah,America/New_York
+3875411f-fcd3-444a-9691-622d022ff639,USD,UPC,Basic Business,America/New_York
+c7e7aaee-f672-460f-8a1c-0072649c9f00,USD,SKU,Hoochies,America/New_York
+6ee1e4cc-b91f-4626-8093-da2ee771215e,USD,SKU,XSDepot,America/New_York
+7d7ceea4-2dec-45d3-9fd8-c8d5b39d3730,USD,SKU,SomeSome,America/New_York
+b17eeaf4-d61e-4798-aa0a-0641d1c030e4,USD,SKU,Hello World,America/New_York
+1fba728b-6934-425e-8a56-d909dcac6f54,USD,SKU,El Dorado,America/New_York
+eb615681-dceb-4036-8071-aa8c9d5f5be2,USD,SKU,c295589@trbvn.com,America/New_York
+fed39c9d-0ad5-4031-a667-d3e7486a5f45,USD,SKU,Test Welcome Center Flow,America/New_York
+22f11aca-709e-4887-973d-3c4b4379ccd2,EUR,SKU,Euro Business,America/New_York
+d745e21d-91da-41ea-a933-1a784674eeba,USD,SKU,Business with Valid Europa Data and Valid Shopify Channel,America/New_York
+de609298-2d8c-4a9e-86dd-c82873c34906,USD,SKU,Test Business Mike,America/New_York
+40954bee-1539-4d06-bc53-ad832371451c,USD,SKU,Mike,America/New_York
+43184f37-2bc9-4312-9041-52754f658a19,USD,SKU,Shopify as a Supplier,America/Anchorage
+da9bb395-b547-457c-a39b-425cb1f8c3d2,USD,SKU,Goshico,America/New_York
+c2803983-f78e-4e5e-8f6c-7346070a2ec1,USD,SKU,Neil's Polish Stuff,America/New_York
+c69caa8f-5bc3-449e-8138-cbd6a43143d6,USD,SKU,Reiko Wireless,America/New_York
+1cb64cc6-cfed-43d9-b2a0-49b713ad1798,USD,SKU,Mikes Test Business 1,America/New_York
+2e784465-d79f-4727-8455-1b0501484449,AUD,SKU,Down Under Business,Australia/Darwin
